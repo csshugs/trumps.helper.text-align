@@ -1,0 +1,16 @@
+{
+  "name": "inuit-text-align",
+  "version": "0.1.0",
+  "homepage": "https://github.com/TryGenesis/trumps.helper.text-align",
+  "authors": [
+    "Dennis Heibuelt <dennis@csshugs.com>"
+  ],
+  "description": "Text-align helper classes",
+  "main": "_trumps.helper.text-align.scss",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "license": "Apache"
+}
