@@ -3,19 +3,22 @@
 \*------------------------------------*/
 
 /**
- * Text align
+ * Text align left.
  */
-.text--left,
-%text--left{
+.u-text-left {
     text-align: left !important;
 }
 
-.text--right,
-%text--right{
+/**
+ * Text align right.
+ */
+.u-text-right {
     text-align: right !important;
 }
 
-.text--center,
-%text--center{
+/**
+ * Text align center.
+ */
+.u-text-center {
     text-align: center !important;
 }
